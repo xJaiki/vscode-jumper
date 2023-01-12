@@ -15,8 +15,8 @@ VSCode Jumper is a powerful chrome extension that streamlines your workflow by a
 - Streamline your workflow and save time.
 
 ## Screenshots
-![Screenshot1](https://raw.githubusercontent.com/xJaiki/vscode-jumper/master/screenshots/screenshot1.png)
-![Screenshot2](https://raw.githubusercontent.com/xJaiki/vscode-jumper/master/screenshots/screenshot2.png)
+![Screenshot1](https://raw.githubusercontent.com/xJaiki/vscode-jumper/master/screenshots/screenshot-1.png)
+![Screenshot2](https://raw.githubusercontent.com/xJaiki/vscode-jumper/master/screenshots/screenshot-2.png)
 
 ## Contributing
 If you find any bugs or have any suggestions, please feel free to open an issue or submit a pull request.
