@@ -21,22 +21,8 @@ VSCode Jumper is a powerful chrome extension that streamlines your workflow by a
 ## Contributing
 If you find any bugs or have any suggestions, please feel free to open an issue or submit a pull request.
 
-## Support
-If you need help or have any questions, please don't hesitate to contact us at vscodejumper@gmail.com
-
-## License
-VSCode Jumper is released under the [MIT License](https://github.com/xJaiki/vscode-jumper/blob/master/LICENSE).
-
-Get your hands on VSCode Jumper today and take the first step towards a more efficient and productive workflow.
-
 ## Author
 Jaiki
 
 ## Buy me an energy drink
 If you like the extension, you can buy me an energy drink [here](https://ko-fi.com/jaiki)
-
-## Buy me a Beer
-If you like the extension, you can buy me a Beer [here](https://paypal.me/jaikitap)
-
-## Source code
-Source code
